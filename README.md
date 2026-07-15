@@ -16,9 +16,9 @@ processes** end to end (database → API → UI).
 `C#` · `.NET 8` · `Blazor` · `.NET MAUI` · `React` · `React Native` · `TypeScript` ·
 `SQL Server` · `dbt` · `EF Core`
 
+### Featured
+**[cv.abremoller.com](https://cv.abremoller.com)** — my CV as a data-driven .NET 8 + Blazor WebAssembly app: an ASP.NET Core API, EF Core / SQL Server, QuestPDF PDF export, and a smoke-tested GitHub Actions pipeline. Source → **[github.com/abremoller/cv](https://github.com/abremoller/cv)**
+
 ### Find me
 - **CV:** https://cv.abremoller.com
 - **LinkedIn:** https://www.linkedin.com/in/abre-moller-3a5667201/
-
-<sub>This CV site is itself a .NET 8 + Blazor WebAssembly app with an EF Core / SQL Server backend,
-QuestPDF export, and CI/CD — happy to talk through how it's built.</sub>
