@@ -19,6 +19,8 @@ processes** end to end (database → API → UI).
 ### Featured
 **[cv.abremoller.com](https://cv.abremoller.com)** — my CV as a data-driven .NET 8 + Blazor WebAssembly app: an ASP.NET Core API, EF Core / SQL Server, QuestPDF PDF export, and a smoke-tested GitHub Actions pipeline. Source → **[github.com/abremoller/cv](https://github.com/abremoller/cv)**
 
+**[Workout Catalog](https://github.com/abremoller/WorkoutCatalog)** — a .NET 8 **WPF** desktop app to catalogue, rate, and play an exercise-video library: MVVM (CommunityToolkit), EF Core/SQLite, an embedded LibVLCSharp player, FFmpeg thumbnails, a custom dark theme, and a companion batch console tool.
+
 ### Find me
 - **CV:** https://cv.abremoller.com
 - **LinkedIn:** https://www.linkedin.com/in/abre-moller-3a5667201/
