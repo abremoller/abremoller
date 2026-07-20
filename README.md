@@ -21,6 +21,8 @@ processes** end to end (database → API → UI).
 
 **[Workout Catalog](https://github.com/abremoller/WorkoutCatalog)** — a .NET 8 **WPF** desktop app to catalogue, rate, and play an exercise-video library: MVVM (CommunityToolkit), EF Core/SQLite, an embedded LibVLCSharp player, FFmpeg thumbnails, a custom dark theme, and a companion batch console tool.
 
+**[WebSql](https://github.com/abremoller/WebSql)** — a browser-based **SQL Server client**, built as a hosted .NET 8 Blazor WebAssembly app: object explorer, a query editor with templates and history, a results grid with CSV export, inline data editing, and transaction control.
+
 ### Find me
 - **CV:** https://cv.abremoller.com
 - **LinkedIn:** https://www.linkedin.com/in/abre-moller-3a5667201/
